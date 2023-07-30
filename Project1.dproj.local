@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/17 13:08:13.000.781,=C:\Users\elyze\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/21 14:20:08.000.369,=C:\Users\elyze\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/21 14:20:37.000.349,=C:\Users\elyze\OneDrive\Documentos\db\Unit2.pas</Transaction>
+    <Transaction>2023/07/21 14:20:59.000.901,C:\Users\elyze\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\elyze\OneDrive\Documentos\db\Unit1.pas</Transaction>
+    <Transaction>2023/07/21 14:20:59.000.901,C:\Users\elyze\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\elyze\OneDrive\Documentos\db\Unit1.dfm</Transaction>
+    <Transaction>2023/07/21 14:21:03.000.114,C:\Users\elyze\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\elyze\OneDrive\Documentos\db\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
